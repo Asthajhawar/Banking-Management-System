@@ -103,12 +103,13 @@ functionalities. If they don’t match or entered account number doesn't exist t
 ```
 
 ## Input and Output of program
-![Main Window](./images/Output1.jpg)
 
-![Employee Main Window](/main/images/Output2.jpg)
+![Output1](https://user-images.githubusercontent.com/56184827/131105135-6eafdb14-42ab-4ce5-94f4-cfcf77737a7b.JPG)
 
-![Employee Functions](/main/images/Output3.jpg)
+![Output2](https://user-images.githubusercontent.com/56184827/131105207-3f210d9c-5e8a-4177-9c8e-fc423e5b9d63.JPG)
 
-![Customer Main Window](/main/images/Output4.jpg)
+![Output3](https://user-images.githubusercontent.com/56184827/131105329-b9f0acc6-26b1-4e49-93ce-e328aea5779e.JPG)
 
-![Customer Functions](/main/images/Output5.jpg)
+![Output4](https://user-images.githubusercontent.com/56184827/131105403-db825a27-631e-4bf6-a665-786b892e842b.JPG)
+
+![Output5](https://user-images.githubusercontent.com/56184827/131105461-3d7bd378-756f-47f7-b595-ac889efc4eb0.JPG)
