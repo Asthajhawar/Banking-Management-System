@@ -9,7 +9,7 @@ Project in python with use of Tkinter GUI toolkit
 ## Installation
 ###### Tkinter
 ```
- We just need to install Python from www.python.org, and it comes along with Python.
+We just need to install Python from www.python.org, and it comes along with Python.
 We do not need to install it separately.
 ```
 ###### Datetime
@@ -18,7 +18,7 @@ Datetime module comes build into Python, so there is no need to install it exter
 ```
 ###### OS
 ```
- We just need to install Python from www.python.org, and it comes along with Python.
+We just need to install Python from www.python.org, and it comes along with Python.
 We do not need to install it separately.
 ```
 
@@ -103,12 +103,12 @@ functionalities. If they don’t match or entered account number doesn't exist t
 ```
 
 ## Input and Output of program
-![Main Window](/images/Output1.jpg)
+![Main Window](./images/Output1.jpg)
 
-![Employee Main Window](/images/Output2.jpg)
+![Employee Main Window](./images/Output2.jpg)
 
-![Employee Functions](/images/Output3.jpg)
+![Employee Functions](./images/Output3.jpg)
 
-![Customer Main Window](/images/Output4.jpg)
+![Customer Main Window](./images/Output4.jpg)
 
-![Customer Functions](/images/Output5.jpg)
+![Customer Functions](./images/Output5.jpg)
