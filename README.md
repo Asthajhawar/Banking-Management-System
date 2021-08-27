@@ -105,10 +105,10 @@ functionalities. If they don’t match or entered account number doesn't exist t
 ## Input and Output of program
 ![Main Window](./images/Output1.jpg)
 
-![Employee Main Window](./images/Output2.jpg)
+![Employee Main Window](../master/images/Output2.jpg)
 
-![Employee Functions](./images/Output3.jpg)
+![Employee Functions](../master/images/Output3.jpg)
 
-![Customer Main Window](./images/Output4.jpg)
+![Customer Main Window](../master/images/Output4.jpg)
 
-![Customer Functions](./images/Output5.jpg)
+![Customer Functions](../master/images/Output5.jpg)
